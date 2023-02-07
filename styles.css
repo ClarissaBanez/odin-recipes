@@ -6,13 +6,14 @@
     padding: 20px;
 }
 
+.recipe-box{
+    margin: 0px auto;
+    max-width: 500px;
+}
 .recipes{
-display: inline;
+display: block;
 background-color:bisque;
 text-align: center;
-margin: 20px auto;
-;
-
-
-
+margin: 30px auto;
+padding: 20px;
 }
